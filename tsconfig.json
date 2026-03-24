@@ -1,0 +1,23 @@
+{
+  "compilerOptions": {
+    "target": "ES2022",
+    "module": "NodeNext",
+    "moduleResolution": "NodeNext",
+    "strict": true,
+    "esModuleInterop": true,
+    "skipLibCheck": true,
+    "resolveJsonModule": true,
+    "rootDir": "src",
+    "outDir": "./lib"
+  },
+  "include": [
+    "src"
+  ],
+  "exclude": [
+    "src/browserServer.ts",
+    "src/cdpRelay.ts",
+    "src/httpServer.ts",
+    "src/program.ts",
+    "src/transport.ts"
+  ]
+}
