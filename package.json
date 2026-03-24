@@ -1,6 +1,6 @@
 {
-  "name": "@Andrew-Chen-Wang/camoufox-mcp",
-  "version": "0.1.0",
+  "name": "@andrew-chen-wang/camoufox-mcp",
+  "version": "0.0.1",
   "description": "Camoufox-backed MCP browser automation server",
   "type": "module",
   "repository": {
